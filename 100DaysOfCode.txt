@@ -3,7 +3,7 @@ My first time doing this challenge.
 Day 1:
     I have learned the basics of GIT & GITHUB and first time with BASH:
         -BASH: create folder, access a folder, delete it, rename it, move it, view folder contents, folder directory
-        -create a new proyect on GIT
+        -create a new project on GIT
         -.gitignore
         -stage (add)
         -commit -m "text"
