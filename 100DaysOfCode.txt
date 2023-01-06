@@ -12,4 +12,14 @@ Day 1:
         -create & merge a branch
         -upload commit to GITHUB (remote add & push)
 Day 2:
-    I have learned
+    Goals of this challenge:
+        -Learn backend development with JAVA
+        -Learn how to test with JUnit
+        -Learning databases
+        -Learning HTML, CSS, Bootstrap and JS, the basics for the frontend
+        -Learn frontend development with REACT (Stack MERN)
+        -Learning to use APIs
+        -Learn more about computer science
+        -Learn how to make basic video games
+        -Make some simple application for android
+        -Learn more about GIT and GITHUB
